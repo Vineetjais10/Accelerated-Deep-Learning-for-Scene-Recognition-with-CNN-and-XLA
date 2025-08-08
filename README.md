@@ -1,6 +1,6 @@
 # Lesson 14: Optimizing Deep Learning Models for Computer Vision
 
-This repository contains a Jupyter Notebook titled **"Lesson 14 - Optimizing Deep Learning Models for Computer Vision"**, which provides practical techniques for making deep learning models more efficient — both in training and deployment.
+This repository contains a Jupyter Notebook which provides practical techniques for making deep learning models more efficient — both in training and deployment.
 
 ## 🧠 Lesson Overview
 
